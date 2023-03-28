@@ -1,11 +1,15 @@
+html {
+    background-color: rgb(82, 43, 43);
+}
+
 body {
     font-family: "Trebuchet MS"; Tahoma; Verdana; 
+    text-align: center;
 }
 
 h1 {
     color:rgb(2, 124, 55);
     font-weight: 900;
-    background-color: rgb(109, 70, 70);
     font-size: 45px;
 }
 
@@ -15,5 +19,12 @@ img {
 }
 
 h2 {
-    color: burlywood
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 14px;
+    color: blanchedalmond
 }

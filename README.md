@@ -1,4 +1,4 @@
-# odin-recipes
+# sunnys-earthy-eats
 
 GOALS:
 Create an HTML website with and index page containing links to a few recipes
